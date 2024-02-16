@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jovany Antoine</h1>
 <h3 align="center">A passionate software developer from Haiti 🇭🇹</h3>
 
